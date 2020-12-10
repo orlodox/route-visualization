@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638654579205",
+    "project_id": "pelagic-pod-297615",
+    "storage_bucket": "pelagic-pod-297615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638654579205:android:6f57941c70400808cb526c",
+        "android_client_info": {
+          "package_name": "com.example.routevisual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638654579205-v9554tj6lu9fqn8aunllm1131g6koq64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnvF-5ASopKV5X-fz62bawlAXq54HRITo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638654579205-v9554tj6lu9fqn8aunllm1131g6koq64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
