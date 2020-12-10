@@ -1,0 +1,2 @@
+com/example/routevisual/BuildConfig.java
+ com.example.routevisual.BuildConfig

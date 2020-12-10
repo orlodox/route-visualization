@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">638654579205-v9554tj6lu9fqn8aunllm1131g6koq64.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">638654579205</string>
+    <string name="google_api_key" translatable="false">AIzaSyDnvF-5ASopKV5X-fz62bawlAXq54HRITo</string>
+    <string name="google_app_id" translatable="false">1:638654579205:android:6f57941c70400808cb526c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDnvF-5ASopKV5X-fz62bawlAXq54HRITo</string>
+    <string name="google_storage_bucket" translatable="false">pelagic-pod-297615.appspot.com</string>
+    <string name="project_id" translatable="false">pelagic-pod-297615</string>
+</resources>

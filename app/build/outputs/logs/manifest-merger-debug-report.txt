@@ -1,0 +1,448 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:2:1-44:12
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b3c209f757ad2a5cb5ce2eb411a7f504/jetified-firebase-core-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/c6a1b6006a34d6d339ffa93a3ea020fb/jetified-android-maps-utils-0.3.4/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/4f605cbb378afdb538097105dd7d3cc0/jetified-core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/1a5cb58e74766ff6f126469e8a70031e/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/5a96ea3110fdd8426edd43ee2f07ba0c/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/bd32365e8c6cdcdb6c2ce0e423e4b1a3/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f635c2eef3b3631947040f873e765062/jetified-firebase-analytics-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fba3191dc4b49c242a46beb14ade2900/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/580368bb522b43738fd01437b34634f6/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fe644c86cae8877a22c3722e1fd41a59/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/100a96cafb60ae59302bf90bca2689ef/jetified-play-services-measurement-sdk-17.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/3a01fb607b8a4d1c0cd89a6644367e51/jetified-firebase-common-18.0.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/ce921b38f9b63f7a4493dc2dac2e791e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/c07b14307796faaf4196bff4f187fac0/jetified-play-services-measurement-base-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a453a6bc6069fa06b65a7660de9a1149/jetified-play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a374cf3f327ec8df02eda70866156348/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b80e0a7b98d52991de27b5ec6afb9e56/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/390581f5793bb4cc57b2b65617ae64c8/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/10b951a80a9a2c9d3a7e18cd919ba26f/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/2c5d3b9ab17c4f9997bcdc7312d9b1aa/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a6a4f3ed8ae0527d2493cebe8d9db1db/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f59c7a55f24378e2d40feaf73dde75a9/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/20108fd94758488916a85e8e771b353e/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/3c82873f12a2f2cfb36f9a1a3f0e008f/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/6aa3088b839da0595b09c191d101fe9a/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f009971d33cad83b68e301058c4d9647/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/263ad80c7b25ecf1536835ee2f5207d6/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/5b0621ecb7901dd483de5010b4d3c04b/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d6c79a17536a69a209d1876567608eb2/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/0d751e933e44b9cad587b9b7bc0ab350/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/5c19717f16c2bbb6e3cc00ff6597c825/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.2.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f05dd70c51ecfd416285dbee21b5ae61/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f9d6fc59e608de0d66bdd9c5850163d8/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/dee777bcf9dc83be2808ca9c251b3d5d/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/2cb8004260a8ddc14b43218bd5fe379a/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fa46003439360251848daf5c2294bbfa/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/4146ad072642fc8ac112aa5a2e254e45/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d452013a3387a80907a72b371cc3f5ef/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/adb262eeb6347132ddbaaf80fa3c2775/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/9f2fdb11836e0d407ab58a8534b5e07a/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/233f156e7d7a608309ffe51cb3967634/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/6adfcfd86d56f548e215107fe989c488/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/2645e4f3004d16dc0d70358252f1090a/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42f4ff1bba7cae1bbe4e337e8f80be6b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/6d2b98a50e247e4f1a23df4e4ea0320c/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:2:1-44:12
+INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:2:1-44:12
+		INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:12:5-42:19
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b3c209f757ad2a5cb5ce2eb411a7f504/jetified-firebase-core-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b3c209f757ad2a5cb5ce2eb411a7f504/jetified-firebase-core-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/c6a1b6006a34d6d339ffa93a3ea020fb/jetified-android-maps-utils-0.3.4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/c6a1b6006a34d6d339ffa93a3ea020fb/jetified-android-maps-utils-0.3.4/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/1a5cb58e74766ff6f126469e8a70031e/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/1a5cb58e74766ff6f126469e8a70031e/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/bd32365e8c6cdcdb6c2ce0e423e4b1a3/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/bd32365e8c6cdcdb6c2ce0e423e4b1a3/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f635c2eef3b3631947040f873e765062/jetified-firebase-analytics-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f635c2eef3b3631947040f873e765062/jetified-firebase-analytics-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/580368bb522b43738fd01437b34634f6/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/580368bb522b43738fd01437b34634f6/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fe644c86cae8877a22c3722e1fd41a59/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fe644c86cae8877a22c3722e1fd41a59/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/100a96cafb60ae59302bf90bca2689ef/jetified-play-services-measurement-sdk-17.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/100a96cafb60ae59302bf90bca2689ef/jetified-play-services-measurement-sdk-17.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/3a01fb607b8a4d1c0cd89a6644367e51/jetified-firebase-common-18.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/3a01fb607b8a4d1c0cd89a6644367e51/jetified-firebase-common-18.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/ce921b38f9b63f7a4493dc2dac2e791e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/ce921b38f9b63f7a4493dc2dac2e791e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/c07b14307796faaf4196bff4f187fac0/jetified-play-services-measurement-base-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/c07b14307796faaf4196bff4f187fac0/jetified-play-services-measurement-base-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a453a6bc6069fa06b65a7660de9a1149/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a453a6bc6069fa06b65a7660de9a1149/jetified-play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a374cf3f327ec8df02eda70866156348/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a374cf3f327ec8df02eda70866156348/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b80e0a7b98d52991de27b5ec6afb9e56/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b80e0a7b98d52991de27b5ec6afb9e56/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/390581f5793bb4cc57b2b65617ae64c8/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/390581f5793bb4cc57b2b65617ae64c8/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f05dd70c51ecfd416285dbee21b5ae61/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f05dd70c51ecfd416285dbee21b5ae61/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/2cb8004260a8ddc14b43218bd5fe379a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/2cb8004260a8ddc14b43218bd5fe379a/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f05dd70c51ecfd416285dbee21b5ae61/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:18:9-49
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:28:9-30:55
+	android:value
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:30:13-52
+	android:name
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:29:13-58
+activity#com.example.routevisual.MapsActivity
+ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:32:9-41:20
+	android:screenOrientation
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:35:13-56
+	android:name
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:33:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml:39:27-74
+uses-sdk
+INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b3c209f757ad2a5cb5ce2eb411a7f504/jetified-firebase-core-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b3c209f757ad2a5cb5ce2eb411a7f504/jetified-firebase-core-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/c6a1b6006a34d6d339ffa93a3ea020fb/jetified-android-maps-utils-0.3.4/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.3.4] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/c6a1b6006a34d6d339ffa93a3ea020fb/jetified-android-maps-utils-0.3.4/AndroidManifest.xml:5:5-43
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/4f605cbb378afdb538097105dd7d3cc0/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/4f605cbb378afdb538097105dd7d3cc0/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/1a5cb58e74766ff6f126469e8a70031e/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/1a5cb58e74766ff6f126469e8a70031e/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/5a96ea3110fdd8426edd43ee2f07ba0c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/5a96ea3110fdd8426edd43ee2f07ba0c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/bd32365e8c6cdcdb6c2ce0e423e4b1a3/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/bd32365e8c6cdcdb6c2ce0e423e4b1a3/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f635c2eef3b3631947040f873e765062/jetified-firebase-analytics-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f635c2eef3b3631947040f873e765062/jetified-firebase-analytics-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fba3191dc4b49c242a46beb14ade2900/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fba3191dc4b49c242a46beb14ade2900/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/580368bb522b43738fd01437b34634f6/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/580368bb522b43738fd01437b34634f6/jetified-firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fe644c86cae8877a22c3722e1fd41a59/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fe644c86cae8877a22c3722e1fd41a59/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/100a96cafb60ae59302bf90bca2689ef/jetified-play-services-measurement-sdk-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/100a96cafb60ae59302bf90bca2689ef/jetified-play-services-measurement-sdk-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/3a01fb607b8a4d1c0cd89a6644367e51/jetified-firebase-common-18.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/3a01fb607b8a4d1c0cd89a6644367e51/jetified-firebase-common-18.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/ce921b38f9b63f7a4493dc2dac2e791e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/ce921b38f9b63f7a4493dc2dac2e791e/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/c07b14307796faaf4196bff4f187fac0/jetified-play-services-measurement-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/c07b14307796faaf4196bff4f187fac0/jetified-play-services-measurement-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a453a6bc6069fa06b65a7660de9a1149/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a453a6bc6069fa06b65a7660de9a1149/jetified-play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a374cf3f327ec8df02eda70866156348/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a374cf3f327ec8df02eda70866156348/jetified-firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b80e0a7b98d52991de27b5ec6afb9e56/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b80e0a7b98d52991de27b5ec6afb9e56/jetified-play-services-ads-identifier-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/390581f5793bb4cc57b2b65617ae64c8/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/390581f5793bb4cc57b2b65617ae64c8/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/10b951a80a9a2c9d3a7e18cd919ba26f/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/10b951a80a9a2c9d3a7e18cd919ba26f/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/2c5d3b9ab17c4f9997bcdc7312d9b1aa/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/2c5d3b9ab17c4f9997bcdc7312d9b1aa/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a6a4f3ed8ae0527d2493cebe8d9db1db/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a6a4f3ed8ae0527d2493cebe8d9db1db/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f59c7a55f24378e2d40feaf73dde75a9/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f59c7a55f24378e2d40feaf73dde75a9/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/20108fd94758488916a85e8e771b353e/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/20108fd94758488916a85e8e771b353e/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/3c82873f12a2f2cfb36f9a1a3f0e008f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/3c82873f12a2f2cfb36f9a1a3f0e008f/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/6aa3088b839da0595b09c191d101fe9a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/6aa3088b839da0595b09c191d101fe9a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f009971d33cad83b68e301058c4d9647/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f009971d33cad83b68e301058c4d9647/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/263ad80c7b25ecf1536835ee2f5207d6/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/263ad80c7b25ecf1536835ee2f5207d6/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/5b0621ecb7901dd483de5010b4d3c04b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/5b0621ecb7901dd483de5010b4d3c04b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d6c79a17536a69a209d1876567608eb2/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d6c79a17536a69a209d1876567608eb2/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/0d751e933e44b9cad587b9b7bc0ab350/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/0d751e933e44b9cad587b9b7bc0ab350/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/5c19717f16c2bbb6e3cc00ff6597c825/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/5c19717f16c2bbb6e3cc00ff6597c825/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.2.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f05dd70c51ecfd416285dbee21b5ae61/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f05dd70c51ecfd416285dbee21b5ae61/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f9d6fc59e608de0d66bdd9c5850163d8/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/f9d6fc59e608de0d66bdd9c5850163d8/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/dee777bcf9dc83be2808ca9c251b3d5d/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/dee777bcf9dc83be2808ca9c251b3d5d/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/2cb8004260a8ddc14b43218bd5fe379a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/2cb8004260a8ddc14b43218bd5fe379a/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fa46003439360251848daf5c2294bbfa/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fa46003439360251848daf5c2294bbfa/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/4146ad072642fc8ac112aa5a2e254e45/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/4146ad072642fc8ac112aa5a2e254e45/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d452013a3387a80907a72b371cc3f5ef/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d452013a3387a80907a72b371cc3f5ef/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/adb262eeb6347132ddbaaf80fa3c2775/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/adb262eeb6347132ddbaaf80fa3c2775/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/9f2fdb11836e0d407ab58a8534b5e07a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/9f2fdb11836e0d407ab58a8534b5e07a/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/233f156e7d7a608309ffe51cb3967634/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/233f156e7d7a608309ffe51cb3967634/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/6adfcfd86d56f548e215107fe989c488/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/6adfcfd86d56f548e215107fe989c488/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/2645e4f3004d16dc0d70358252f1090a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/2645e4f3004d16dc0d70358252f1090a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42f4ff1bba7cae1bbe4e337e8f80be6b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42f4ff1bba7cae1bbe4e337e8f80be6b/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/6d2b98a50e247e4f1a23df4e4ea0320c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/6d2b98a50e247e4f1a23df4e4ea0320c/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kirill.orlov/University/SevenSemestr/GridAndClouds/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/a933b9960baa14f8b7c35e548bc32f71/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/d64854010cfe3163404238b5dde659f1/jetified-play-services-measurement-api-17.0.0/AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:19.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/b2119f5ad35fa39ca727311e5164880a/jetified-firebase-iid-19.0.0/AndroidManifest.xml:42:25-78
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fe644c86cae8877a22c3722e1fd41a59/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fe644c86cae8877a22c3722e1fd41a59/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fe644c86cae8877a22c3722e1fd41a59/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/fe644c86cae8877a22c3722e1fd41a59/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/51f1a88dcd6d198dca556926b3998280/jetified-play-services-measurement-impl-17.0.0/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/553eebe0b7a9f5ef79add24588775aed/jetified-play-services-measurement-sdk-api-17.0.0/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/42b3057bf3b785a2e2f6f2c9a645a41f/jetified-play-services-measurement-17.0.0/AndroidManifest.xml:49:13-87
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/3a01fb607b8a4d1c0cd89a6644367e51/jetified-firebase-common-18.0.0/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/3a01fb607b8a4d1c0cd89a6644367e51/jetified-firebase-common-18.0.0/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/3a01fb607b8a4d1c0cd89a6644367e51/jetified-firebase-common-18.0.0/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/3a01fb607b8a4d1c0cd89a6644367e51/jetified-firebase-common-18.0.0/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:18.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/3a01fb607b8a4d1c0cd89a6644367e51/jetified-firebase-common-18.0.0/AndroidManifest.xml:13:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/390581f5793bb4cc57b2b65617ae64c8/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/390581f5793bb4cc57b2b65617ae64c8/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/kirill.orlov/.gradle/caches/transforms-2/files-2.1/390581f5793bb4cc57b2b65617ae64c8/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
